@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Montserrat&display=swap');
+.contact{
+    background-attachment: fixed;
+    height: 900px;
+    width:800px ;
+    margin-left:550px ;
+    border-radius:10px ;
+    background: linear-gradient(90deg, hsla(120, 6%, 90%, 1) 0%, hsla(228, 75%, 16%, 1) 100%);
+    box-shadow: 15px 15px 30px #668788,
+    -15px -15px 30px #4a6b79;
+}
+.text-center{
+    text-align: center;
+    padding: 30px;
+    font-size: 35px;
+}
+.form{
+    max-width: 500px;
+    margin: 42px auto;
+  
+    
+    
+  
+}
+
+.form input,textarea{
+    margin: 30px 0;
+    padding: 5px 3px;
+    width: 100%;
+    font-size: 20px;
+    border: 2px solid rgba(128, 128, 128, 0);
+    border-radius: 6px;
+}
+
+body{
+    font-family:'Lato', sans-serif; 
+    font-weight: 800;
+    font-size:20px ;
+    background: url(h1.jpg);
+    
+
+    
+    
+
+}
+button{
+    border-radius: 6px;
+    border: none;
+    font-family:'Lato',sans-serif;
+    font-weight: 700; 
+    font-size:20px ;
+    color: rgb(71, 66, 66);
+    margin-left:45% ;
+    padding:4px 10px 4px 10px;
+    cursor: pointer;
+}
+button:hover{
+  background: linear-gradient(90deg, hsla(236, 100%, 8%, 1) 0%, hsla(211, 100%, 28%, 1) 100%);
+  color: whitesmoke;
+    
+   
+}
+section{
+    height: 100%;
+    width: 100%;
+    
+    
+  
+}
+h1{
+    color: rgb(245, 235, 235);
+    font-weight: 900;
+}
